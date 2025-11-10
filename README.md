@@ -1,6 +1,6 @@
 # Hi,I'm Raphee 
 ## :mage_man: Introduction
-My name is Raphee. I am curently studying in Artificial Intelligence Major. I have interested in AI and robotics and military hardware.
+My name is Raphee or you can call me Ray. I am curently studying in Artificial Intelligence Major (07) at Satit Prasarnmit Demonstration School. I have interested in AI and robotics and military hardware.
 
 ## :desktop_computer: Computer languages 
 <div>
