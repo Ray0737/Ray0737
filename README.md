@@ -2,7 +2,7 @@
 ## :mage_man: Introduction
 My name is Raphee or you can call me Ray. I am curently studying in Artificial Intelligence Engineering Major (7th Generation) at Satit Prasarnmit Demonstration School (Secondary). I have interested in AI and robotics and military hardware.
 
-## :desktop_computer: Computer languages 
+## :desktop_computer: Computer languages & Tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
