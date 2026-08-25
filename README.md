@@ -4,7 +4,7 @@
 
 # Hi, I'm Ray
 
-**Raphee "Ray" Rattanamanoonporn**
+**Mr. Raphee Rattanamanoonporn "Ray"**
 
 *Engineering student · mediocre photographer · military aviation enthusiast*
 
