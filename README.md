@@ -1,38 +1,53 @@
-# Print("Hello, I'm Ray")
-### [-> My Website :)](https://c0der.vercel.app/index.html)
+<div align="center">
 
-## :mage_man: Introduction
-My name is Raphee or you can call me Ray. I am curently studying in Artificial Intelligence Engineering Major (7th Generation) at Satit Prasarnmit Demonstration School (Secondary).
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Ray0737/Ray0737/main/1-IMG_2967.jpg&w=850&h=220&fit=cover&radius=16" alt="Banner" width="850" />
 
-## :desktop_computer: Computer languages & Tools
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+# Hi, I'm Ray
+
+**Raphee "Ray" Rattanamanoonporn**
+
+*Engineering student · mediocre photographer · military aviation enthusiast*
+
 </div>
 
+## About
+
+- AI Engineering major (E-AI 07) at Satit Prasarnmit Demonstration School (Secondary)
+- Military aviation & defense systems enthusiast
+- Portraits and landscapes, shot on a Canon EOS 500D — 17-50mm f/2.8, 50mm f/1.8 — [@galaxy.me1](https://www.instagram.com/galaxy.me1/)
+- Native Thai · English B2 · HSK 2
+
+## Contests & Activities
+
+- Prelim, Samsung Solve for Tomorrow 2026
+- Semifinal, National Software Contest 28th
+- RCSA Drone Orientation
+- IECU Hackathon
+- Robo Soccer Challenge
+- CEDT Innovation Summit 2025 & Hackathon 2026
+- Bangmot Hackathon
+- MOU Class with FIBO KMUTT
+
+## What I Can Do
+
+- **Web Development** — full stack, HTML/CSS/JS
+- **AI & Machine Learning** — Python, Deep Learning, Computer Vision
+- **Backend & DB** — Supabase
+- **Chatbots** — Line bots w/ Dialogflow
+- **Hardware & Circuits** — Arduino, C++
+- **3D & CAD** — Blender, Onshape
+
+## Skills
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,opencv,supabase,blender,arduino" alt="Python, C++, HTML, CSS, JavaScript, OpenCV, Supabase, Blender, Arduino" />
+
+## Links
+
+[c0der.vercel.app](https://c0der.vercel.app/index.html) ·
+[raphee.rattanamanoonporn@gmail.com](mailto:raphee.rattanamanoonporn@gmail.com) ·
+[GitHub](https://github.com/Ray0737) ·
+[Instagram](https://instagram.com/c0der_404/)
+
 ---
 
-## Interests and Passions
-* Machine Learning & Artificial Intelligence
-* Cyber Security
-* Aviation and Military Hardware
-* Defense systems and engineering
-
----
-
-## Skills and Languages
-
-### Languages
-* Thai: Native
-* English: B2 (Upper-Intermediate)
-* Chinese: HSK 2 (Elementary)
-
-### Soft Skills
-* Team Leader
-* Problem Solving
-* Strategic Thinking
-* Communication
+<div align="center"><sub>Lieutenant Hecker</sub></div>
