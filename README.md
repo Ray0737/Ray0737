@@ -19,8 +19,8 @@
 
 ## Contests & Activities
 
-- Prelim, Samsung Solve for Tomorrow 2026
-- Semifinal, National Software Contest 28th
+- Prelim, Samsung Solve for Tomorrow 2026 (In Progress)
+- Semifinal, National Software Contest 28th 
 - RCSA Drone Orientation
 - IECU Hackathon
 - Robo Soccer Challenge
