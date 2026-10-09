@@ -19,14 +19,14 @@
 
 ## Contests & Activities
 
-- Prelim, Samsung Solve for Tomorrow 2026 (In Progress)
-- Semifinal, National Software Contest 28th 
-- RCSA Drone Orientation
-- IECU Hackathon
-- Robo Soccer Challenge
-- CEDT Innovation Summit 2025 & Hackathon 2026
-- Bangmot Hackathon
-- MOU Class with FIBO KMUTT
+- Semifinalist (11th), Samsung Solve for Tomorrow 2026
+- Semifinalist: National Software Contest 28th 
+- Participated: RCSA Drone Orientation
+- Participated: IECU Hackathon
+- Participated: Robo Soccer Challenge
+- Participated: CEDT Innovation Summit 2025 & Hackathon 2026
+- Participated: Bangmod Hackathon
+- Participated: MOU Class with FIBO KMUTT
 
 ## What I Can Do
 
