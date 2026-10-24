@@ -27,6 +27,7 @@
 - Participated: CEDT Innovation Summit 2025 & Hackathon 2026
 - Participated: Bangmod Hackathon
 - Participated: MOU Class with FIBO KMUTT
+- Participated: Flow Summit | U-hackathon  
 
 ## What I Can Do
 
