@@ -35,8 +35,8 @@
 - **AI & Machine Learning** — Python, Deep Learning, Computer Vision
 - **Backend & DB** — Supabase
 - **Chatbots** — Line bots w/ Dialogflow
-- **Hardware & Circuits** — Arduino, C++
-- **3D & CAD** — Blender, Onshape
+- **Hardware & Circuits** — Raspberry pi, Arduino, C++
+- **3D & CAD** — Onshape
 
 ## Skills
 
